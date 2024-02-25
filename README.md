@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-pareto-type1@esm/index.mjs';
+import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-pareto-type1@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-pareto-type1@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-pareto-type1@v0.2.1-esm/index.mjs';
 ```
 
 #### pareto1( alpha, beta )
@@ -397,7 +397,7 @@ var o = rand.toJSON();
 <body>
 <script type="module">
 
-import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-pareto-type1@esm/index.mjs';
+import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-pareto-type1@v0.2.1-esm/index.mjs';
 
 var seed;
 var rand;
